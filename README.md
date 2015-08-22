@@ -3,7 +3,7 @@
 
 ![ScreenShot](https://hostr.co/file/970/TnhrNKFxKtxx/UI.png)
 
-A RuneScape Bot Detector.
+A OldSchool RuneScape Bot Detector.
 
 Download: https://hostr.co/alqubbhvzAOf
 
