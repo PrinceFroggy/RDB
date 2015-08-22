@@ -248,7 +248,7 @@ namespace RuneScapeLibrary.DataTypes
 namespace RuneScapeLibrary.BanHammer
 {
     /// <summary>
-    /// Determines if the user is a bot.
+    /// Determines if the user is a bot. 
     /// Programmed by: Jason G. Kim
     /// </summary>
     public class JudgingThee
