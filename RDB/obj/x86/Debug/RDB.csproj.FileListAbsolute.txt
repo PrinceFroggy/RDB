@@ -1,0 +1,10 @@
+c:\users\andrew\documents\visual studio 2010\Projects\RDB\RDB\bin\Debug\RDB.exe
+c:\users\andrew\documents\visual studio 2010\Projects\RDB\RDB\bin\Debug\RDB.pdb
+c:\users\andrew\documents\visual studio 2010\Projects\RDB\RDB\obj\x86\Debug\RDB.Form1.resources
+c:\users\andrew\documents\visual studio 2010\Projects\RDB\RDB\obj\x86\Debug\RDB.Properties.Resources.resources
+c:\users\andrew\documents\visual studio 2010\Projects\RDB\RDB\obj\x86\Debug\RDB.csproj.GenerateResource.Cache
+c:\users\andrew\documents\visual studio 2010\Projects\RDB\RDB\obj\x86\Debug\RDB.exe
+c:\users\andrew\documents\visual studio 2010\Projects\RDB\RDB\obj\x86\Debug\RDB.pdb
+c:\users\andrew\documents\visual studio 2010\Projects\RDB\RDB\bin\Debug\RDB.exe.config
+c:\users\andrew\documents\visual studio 2010\Projects\RDB\RDB\obj\x86\Debug\RDB.csprojResolveAssemblyReference.cache
+c:\users\andrew\documents\visual studio 2010\Projects\RDB\RDB\bin\Debug\HtmlAgilityPack.dll

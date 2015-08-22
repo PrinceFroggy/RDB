@@ -1,0 +1,9 @@
+C:\Users\Andrew\documents\visual studio 2010\Projects\RDB\RDB\bin\Release\RDB.exe.config
+C:\Users\Andrew\documents\visual studio 2010\Projects\RDB\RDB\bin\Release\RDB.exe
+C:\Users\Andrew\documents\visual studio 2010\Projects\RDB\RDB\bin\Release\RDB.pdb
+C:\Users\Andrew\documents\visual studio 2010\Projects\RDB\RDB\bin\Release\HtmlAgilityPack.dll
+C:\Users\Andrew\documents\visual studio 2010\Projects\RDB\RDB\obj\x86\Release\RDB.Form1.resources
+C:\Users\Andrew\documents\visual studio 2010\Projects\RDB\RDB\obj\x86\Release\RDB.Properties.Resources.resources
+C:\Users\Andrew\documents\visual studio 2010\Projects\RDB\RDB\obj\x86\Release\RDB.csproj.GenerateResource.Cache
+C:\Users\Andrew\documents\visual studio 2010\Projects\RDB\RDB\obj\x86\Release\RDB.exe
+C:\Users\Andrew\documents\visual studio 2010\Projects\RDB\RDB\obj\x86\Release\RDB.pdb
