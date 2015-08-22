@@ -8,4 +8,5 @@ A RuneScape Bot Detector.
 Download: https://hostr.co/alqubbhvzAOf
 
 Credits: ANDREW JUSTIN SOLESA (https://github.com/Shrooms)
+
 Credits: Jason G. Kim (https://github.com/jasongwkim)
