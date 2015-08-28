@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -195,5 +195,8 @@
   </data>
   <data name="Old_RuneScape_Soundtrack__Harmony" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\UI\Old RuneScape Soundtrack- Harmony.mp3;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="HtmlAgilityPack" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\HtmlAgilityPack.dll;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
 </root>
