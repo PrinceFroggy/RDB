@@ -7,7 +7,9 @@ A OldSchool RuneScape Bot Detector.
 
 - Use debugView to view the progress of gathering all the oldschool runescape names.
 
-Download: https://hostr.co/alqubbhvzAOf
+Download (8/27/2015): https://hostr.co/ECDNoV3riBpx
+
+- For the program to work, once you open the Visual Studio project, add the existing file "HTMLAgilityPack.dll" to the Resources.resx
 
 Credits: Andrew Justin Solesa (https://github.com/Shrooms)
 
