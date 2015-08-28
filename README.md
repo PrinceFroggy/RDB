@@ -7,7 +7,11 @@ A OldSchool RuneScape Bot Detector.
 
 - Use debugView to view the progress of gathering all the oldschool runescape names.
 
-Download (8/27/2015: FIXED CRASH): https://hostr.co/V5so2MNA0cUn
+WARNING
+
+IF YOU DOWNLOAD THE SOLUTION, YOU MUST ADD THE EXISTING FILE "HTMLAGILITYPACK.DLL" IN THE FOLDER TO YOUR RESOURCE (BY ADDING EXISTING FILE WITHIN RESOURCES.RESX), ELSE YOU WILL CRASH & THEN YOU MUST USE THE DOWNLOAD BELOW.
+
+Download: https://hostr.co/V5so2MNA0cUn
 
 Credits: Andrew Justin Solesa (https://github.com/Shrooms)
 
