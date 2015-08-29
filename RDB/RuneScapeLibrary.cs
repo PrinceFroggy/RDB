@@ -51,6 +51,8 @@ namespace RuneScapeLibrary.Search
                         OutputDebugString("PAGE # : " + i);
 
                         OutputDebugString("COUNT # : " + this.Count());
+                        
+                        OutputDebugString("NAMES : " + nodes[0] + " - " + nodes[24]);
 
                         i++;
                     }
