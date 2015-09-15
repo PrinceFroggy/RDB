@@ -10,10 +10,13 @@ A OldSchool RuneScape Bot Detector.
 Download: https://hostr.co/V5so2MNA0cUn
 
 Credits: Andrew Justin Solesa (https://github.com/Shrooms)
+- Rest of program.
 
 Credits: Jason G. Kim (https://github.com/jasongwkim)
+- Function(s) based off existing algorithmn(s).
 
 Credits: Joseph Delplavignano
+- Idea
 
 References: http://oldschool.runescape.com/
 
