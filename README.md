@@ -13,7 +13,7 @@ Credits: Andrew Justin Solesa (https://github.com/Shrooms)
 - Rest of program.
 
 Credits: Jason G. Kim (https://github.com/jasongwkim)
-- Function(s) based off existing algorithmn(s).
+- Spike-function(s) based off existing algorithmn(s).
 
 Credits: Joseph Delplavignano
 - Idea
